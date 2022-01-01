@@ -1,0 +1,15 @@
+D:\C#\Zgadywanie\Zgadywanie\obj\Debug\net6.0\Zgadywanie.csproj.AssemblyReference.cache
+D:\C#\Zgadywanie\Zgadywanie\obj\Debug\net6.0\Zgadywanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Zgadywanie\Zgadywanie\obj\Debug\net6.0\Zgadywanie.AssemblyInfoInputs.cache
+D:\C#\Zgadywanie\Zgadywanie\obj\Debug\net6.0\Zgadywanie.AssemblyInfo.cs
+D:\C#\Zgadywanie\Zgadywanie\obj\Debug\net6.0\Zgadywanie.csproj.CoreCompileInputs.cache
+D:\C#\Zgadywanie\Zgadywanie\bin\Debug\net6.0\Zgadywanie.exe
+D:\C#\Zgadywanie\Zgadywanie\bin\Debug\net6.0\Zgadywanie.deps.json
+D:\C#\Zgadywanie\Zgadywanie\bin\Debug\net6.0\Zgadywanie.runtimeconfig.json
+D:\C#\Zgadywanie\Zgadywanie\bin\Debug\net6.0\Zgadywanie.dll
+D:\C#\Zgadywanie\Zgadywanie\bin\Debug\net6.0\ref\Zgadywanie.dll
+D:\C#\Zgadywanie\Zgadywanie\bin\Debug\net6.0\Zgadywanie.pdb
+D:\C#\Zgadywanie\Zgadywanie\obj\Debug\net6.0\Zgadywanie.dll
+D:\C#\Zgadywanie\Zgadywanie\obj\Debug\net6.0\ref\Zgadywanie.dll
+D:\C#\Zgadywanie\Zgadywanie\obj\Debug\net6.0\Zgadywanie.pdb
+D:\C#\Zgadywanie\Zgadywanie\obj\Debug\net6.0\Zgadywanie.genruntimeconfig.cache

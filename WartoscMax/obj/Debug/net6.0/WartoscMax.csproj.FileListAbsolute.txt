@@ -1,0 +1,15 @@
+D:\C#\C# Basic\WartoscMax\bin\Debug\net6.0\WartoscMax.exe
+D:\C#\C# Basic\WartoscMax\bin\Debug\net6.0\WartoscMax.deps.json
+D:\C#\C# Basic\WartoscMax\bin\Debug\net6.0\WartoscMax.runtimeconfig.json
+D:\C#\C# Basic\WartoscMax\bin\Debug\net6.0\WartoscMax.dll
+D:\C#\C# Basic\WartoscMax\bin\Debug\net6.0\ref\WartoscMax.dll
+D:\C#\C# Basic\WartoscMax\bin\Debug\net6.0\WartoscMax.pdb
+D:\C#\C# Basic\WartoscMax\obj\Debug\net6.0\WartoscMax.csproj.AssemblyReference.cache
+D:\C#\C# Basic\WartoscMax\obj\Debug\net6.0\WartoscMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Basic\WartoscMax\obj\Debug\net6.0\WartoscMax.AssemblyInfoInputs.cache
+D:\C#\C# Basic\WartoscMax\obj\Debug\net6.0\WartoscMax.AssemblyInfo.cs
+D:\C#\C# Basic\WartoscMax\obj\Debug\net6.0\WartoscMax.csproj.CoreCompileInputs.cache
+D:\C#\C# Basic\WartoscMax\obj\Debug\net6.0\WartoscMax.dll
+D:\C#\C# Basic\WartoscMax\obj\Debug\net6.0\ref\WartoscMax.dll
+D:\C#\C# Basic\WartoscMax\obj\Debug\net6.0\WartoscMax.pdb
+D:\C#\C# Basic\WartoscMax\obj\Debug\net6.0\WartoscMax.genruntimeconfig.cache
