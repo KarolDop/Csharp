@@ -1,0 +1,15 @@
+D:\C#\C# Basic\WalidacjaDanych\bin\Debug\net6.0\WalidacjaDanych.exe
+D:\C#\C# Basic\WalidacjaDanych\bin\Debug\net6.0\WalidacjaDanych.deps.json
+D:\C#\C# Basic\WalidacjaDanych\bin\Debug\net6.0\WalidacjaDanych.runtimeconfig.json
+D:\C#\C# Basic\WalidacjaDanych\bin\Debug\net6.0\WalidacjaDanych.dll
+D:\C#\C# Basic\WalidacjaDanych\bin\Debug\net6.0\ref\WalidacjaDanych.dll
+D:\C#\C# Basic\WalidacjaDanych\bin\Debug\net6.0\WalidacjaDanych.pdb
+D:\C#\C# Basic\WalidacjaDanych\obj\Debug\net6.0\WalidacjaDanych.csproj.AssemblyReference.cache
+D:\C#\C# Basic\WalidacjaDanych\obj\Debug\net6.0\WalidacjaDanych.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Basic\WalidacjaDanych\obj\Debug\net6.0\WalidacjaDanych.AssemblyInfoInputs.cache
+D:\C#\C# Basic\WalidacjaDanych\obj\Debug\net6.0\WalidacjaDanych.AssemblyInfo.cs
+D:\C#\C# Basic\WalidacjaDanych\obj\Debug\net6.0\WalidacjaDanych.csproj.CoreCompileInputs.cache
+D:\C#\C# Basic\WalidacjaDanych\obj\Debug\net6.0\WalidacjaDanych.dll
+D:\C#\C# Basic\WalidacjaDanych\obj\Debug\net6.0\ref\WalidacjaDanych.dll
+D:\C#\C# Basic\WalidacjaDanych\obj\Debug\net6.0\WalidacjaDanych.pdb
+D:\C#\C# Basic\WalidacjaDanych\obj\Debug\net6.0\WalidacjaDanych.genruntimeconfig.cache

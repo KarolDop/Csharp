@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalidacjaDanych", "WalidacjaDanych.csproj", "{D1D9F5A1-2895-432C-B264-C4DC30DCEF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1D9F5A1-2895-432C-B264-C4DC30DCEF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D9F5A1-2895-432C-B264-C4DC30DCEF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D9F5A1-2895-432C-B264-C4DC30DCEF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D9F5A1-2895-432C-B264-C4DC30DCEF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FAD6F64-EC65-49AE-A50C-22294F982A5B}
+	EndGlobalSection
+EndGlobal
