@@ -1,0 +1,15 @@
+D:\C#\C# Basic\Post\obj\Debug\net6.0\Post.csproj.AssemblyReference.cache
+D:\C#\C# Basic\Post\obj\Debug\net6.0\Post.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Basic\Post\obj\Debug\net6.0\Post.AssemblyInfoInputs.cache
+D:\C#\C# Basic\Post\obj\Debug\net6.0\Post.AssemblyInfo.cs
+D:\C#\C# Basic\Post\obj\Debug\net6.0\Post.csproj.CoreCompileInputs.cache
+D:\C#\C# Basic\Post\bin\Debug\net6.0\Post.exe
+D:\C#\C# Basic\Post\bin\Debug\net6.0\Post.deps.json
+D:\C#\C# Basic\Post\bin\Debug\net6.0\Post.runtimeconfig.json
+D:\C#\C# Basic\Post\bin\Debug\net6.0\Post.dll
+D:\C#\C# Basic\Post\bin\Debug\net6.0\ref\Post.dll
+D:\C#\C# Basic\Post\bin\Debug\net6.0\Post.pdb
+D:\C#\C# Basic\Post\obj\Debug\net6.0\Post.dll
+D:\C#\C# Basic\Post\obj\Debug\net6.0\ref\Post.dll
+D:\C#\C# Basic\Post\obj\Debug\net6.0\Post.pdb
+D:\C#\C# Basic\Post\obj\Debug\net6.0\Post.genruntimeconfig.cache
